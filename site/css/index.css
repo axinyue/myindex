@@ -1,0 +1,43 @@
+body{
+    margin:0 auto;
+    padding: 0;
+    width:100%;
+    height: 100%;
+}
+
+header {
+    background-color:black;
+    color:white;
+    text-align:left;
+    padding:5px;	 
+    height: 20;
+}
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+section {
+    width:500px;
+    float:left;
+    padding:10px;	 	 
+}
+footer {
+    background-color:bisque;
+    color:white; 
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+
+.hide {
+    display: none;
+}
+.show{
+    width:30px;
+    height: 20px;
+    float: right;
+}
